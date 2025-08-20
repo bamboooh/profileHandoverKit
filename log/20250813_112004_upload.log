@@ -1,0 +1,26 @@
+[2025/08/13 11:20:04.20] 開始
+[2025/08/13 11:20:04.21] KIT_DIR
+[2025/08/13 11:20:04.23] KIT_NAME
+[2025/08/13 11:20:04.25] PARENT_DIR
+[2025/08/13 11:20:04.27] ZIP_PATH
+[2025/08/13 11:20:04.29] DEST_DIR
+[2025/08/13 11:20:04.31] ZIP圧縮を実行
+ZipArchiveHelper : 別のプロセスで使用されているため、プロセスはファイル 'C:\Users\fj3683hn\Documents\20250808_辞書登録
+情報とお気に入り情報のエクスポートインポートバッチ作成\profileHandoverKit\log\20250813_112004_upload.log' にアクセスで
+きません。
+発生場所 C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Archive\Microsoft.PowerShell.Archive.p
+sm1:697 文字:30
++ ... sArchived = ZipArchiveHelper $subDirFiles.ToArray() $destinationPath  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\Users\fj3683...2004_upload.log:String) [Write-Error], IOException
+    + FullyQualifiedErrorId : CompressArchiveUnauthorizedAccessError,ZipArchiveHelper
+ 
+New-Object : "1" 個の引数を指定して ".ctor" を呼び出し中に例外が発生しました: "ストリームを読み取れませんでした。"
+発生場所 C:\Windows\system32\WindowsPowerShell\v1.0\Modules\Microsoft.PowerShell.Archive\Microsoft.PowerShell.Archive.p
+sm1:808 文字:38
++ ...     $srcStream = New-Object System.IO.BinaryReader $currentFileStream
++                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [New-Object]、MethodInvocationException
+    + FullyQualifiedErrorId : ConstructorInvokedThrowException,Microsoft.PowerShell.Commands.NewObjectCommand
+ 
+[2025/08/13 11:20:11.98] [ERROR]

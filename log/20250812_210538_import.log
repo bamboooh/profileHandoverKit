@@ -1,0 +1,36 @@
+===== START IMPORT 2025/08/12 21:05:38.57 (TS=20250812_210538) =====
+[STEP] ●01_辞書登録情報インポート 開始● 
+[INFO] 一時フォルダから辞書登録情報をインポート中...
+[INFO] 既存ファイルを削除中...
+        1 個のファイルをコピーしました。
+[SUCS] インポート完了: C:\Users\fj3683hn\AppData\Roaming\Microsoft\IME\15.0\IMEJP\UserDict\imjp15cu.dic
+[SUCS] 辞書登録情報のインポートが完了しました。
+※反映にはWindowsOSの再起動が必要です。
+※ユーザー辞書ツール(アプリ)はOS再起動するまで絶対に開かないでください。
+[STEP] ●01_辞書登録情報インポート 終了● 
+[STEP] ●11_お気に入り情報インポート 開始● 
+[INFO] ブラウザを自動終了しています...
+[INFO] Chromeのお気に入り情報を復元中...
+[INFO] Chromeお気に入り情報をコピー: Bookmarks
+        1 個のファイルをコピーしました。
+[SUCS] Chromeお気に入り情報コピー完了: Bookmarks
+[INFO] Chromeお気に入り情報をコピー: Bookmarks.bak
+        1 個のファイルをコピーしました。
+[SUCS] Chromeお気に入り情報コピー完了: Bookmarks.bak
+[INFO] Chromeお気に入り情報をコピー: BookmarkMergedSurfaceOrdering
+        1 個のファイルをコピーしました。
+[SUCS] Chromeお気に入り情報コピー完了: BookmarkMergedSurfaceOrdering
+[INFO] Edgeのお気に入り情報を復元中...
+[INFO] Edgeお気に入り情報をコピー: Bookmarks
+        1 個のファイルをコピーしました。
+[SUCS] Edgeお気に入り情報のコピー完了: Bookmarks
+[INFO] Edgeお気に入り情報をコピー: Bookmarks.bak
+        1 個のファイルをコピーしました。
+[SUCS] Edgeお気に入り情報のコピー完了: Bookmarks.bak
+[INFO] Edgeお気に入り情報をコピー: BookmarkMergedSurfaceOrdering
+        1 個のファイルをコピーしました。
+[SUCS] Edgeお気に入り情報のコピー完了: BookmarkMergedSurfaceOrdering
+[SUCS] お気に入り情報のインポートが完了しました。
+※反映にはブラウザの再起動が必要です。
+[STEP] ●11_お気に入り情報インポート 終了● 
+===== END IMPORT 2025/08/12 21:05:39.05 =====

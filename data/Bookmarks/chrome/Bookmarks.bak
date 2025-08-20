@@ -1,0 +1,134 @@
+{
+   "checksum": "21a35fb7dced6df35a5bd6c0e8bea6f6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13391827980987446",
+            "date_last_used": "0",
+            "guid": "fd7cce5a-6e3a-40c5-b1a7-57d46ab7ea55",
+            "id": "6",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/"
+         }, {
+            "date_added": "13397106430713064",
+            "date_last_used": "0",
+            "guid": "01860e17-283b-4ace-889c-fcd5f90634de",
+            "id": "36",
+            "name": "Gemini",
+            "type": "url",
+            "url": "https://gemini.google.com/app?hl=ja"
+         }, {
+            "date_added": "13395198798742442",
+            "date_last_used": "0",
+            "guid": "b9dfc42d-5ff1-4b71-97e1-589a36617bc9",
+            "id": "12",
+            "name": "Outlook",
+            "type": "url",
+            "url": "https://outlook.office.com/"
+         }, {
+            "children": [ {
+               "date_added": "13394182162407294",
+               "date_last_used": "0",
+               "guid": "0b3ed8e3-497b-442a-b1d2-46334f47e9f6",
+               "id": "9",
+               "name": "XC JP - GPIF共通基盤リプレース - ドキュメント",
+               "type": "url",
+               "url": "https://fujitsu.sharepoint.com/teams/JP-7f40fea9/Shared%20Documents/Forms/AllItems.aspx"
+            }, {
+               "date_added": "13395733687763288",
+               "date_last_used": "0",
+               "guid": "61c8a329-3c18-4609-912a-56d6893b4750",
+               "id": "18",
+               "name": "【DP】XC - GPIF_共通業務基盤更改",
+               "type": "url",
+               "url": "https://fujitsu.sharepoint.com/sites/jp-FujitsuDP-61866/Shared%20Documents/Forms/AllItems.aspx"
+            } ],
+            "date_added": "13396408667133899",
+            "date_last_used": "0",
+            "date_modified": "13396408671281249",
+            "guid": "579c2736-49ca-4e6c-880b-d42a86a7ef38",
+            "id": "29",
+            "name": "MainSPO",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13395407873911681",
+               "date_last_used": "0",
+               "guid": "39c31b64-9251-47bc-96d7-1fe77c6c649c",
+               "id": "15",
+               "name": "木曜日の進捗報告",
+               "type": "url",
+               "url": "https://fujitsu.sharepoint.com/teams/JP-7f40fea9/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FJP%2D7f40fea9%2FShared%20Documents%2F00%5F%E6%83%85%E5%A0%B1%E5%85%B1%E6%9C%89%2F01%5F%E5%85%B1%E9%80%9A%E6%A5%AD%E5%8B%99%E5%9F%BA%E7%9B%A4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%5F%E6%A7%8B%E7%AF%89%2F02%5F%E9%80%B2%E6%8D%97%E3%83%BB%E8%AA%B2%E9%A1%8C%E7%AE%A1%E7%90%86%2F01%5F%E9%80%B2%E6%8D%97%E5%A0%B1%E5%91%8A%E8%B3%87%E6%96%99&viewid=805d5f17%2Ddc54%2D4fab%2D90b7%2D32e857413441&csf=1&web=1&e=dCoId7&ovuser=a19f121d%2D81e1%2D4858%2Da9d8%2D736e267fd4c7%2Cfj3683hn%40aa%2Ejp%2Efujitsu%2Ecom&OR=Teams%2DHL&CT=1750933355946&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTA2MDIwNjYxNiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&CID=f9deaba1%2Dc075%2D5000%2D66a4%2Dceef2d480efd&cidOR=SPO&FolderCTID=0x0120009F6B755AA3C8A54C9B17C61E8C1209EA"
+            }, {
+               "date_added": "13396423879462144",
+               "date_last_used": "0",
+               "guid": "b71a36ac-aa9b-48ad-afbc-9449dd5bf26e",
+               "id": "30",
+               "name": "CEC検討事項",
+               "type": "url",
+               "url": "https://fujitsu.sharepoint.com/teams/JP-7f40fea9/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FJP%2D7f40fea9%2FShared%20Documents%2F00%5F%E6%83%85%E5%A0%B1%E5%85%B1%E6%9C%89%2F98%5Fwork%2FCEC%2F%E6%A4%9C%E8%A8%8E%E4%BA%8B%E9%A0%85&viewid=805d5f17%2Ddc54%2D4fab%2D90b7%2D32e857413441"
+            }, {
+               "date_added": "13396579612555762",
+               "date_last_used": "0",
+               "guid": "53986050-16ae-4f31-89fc-5a5c3937873e",
+               "id": "33",
+               "name": "80_移行",
+               "type": "url",
+               "url": "https://fujitsu.sharepoint.com/teams/JP-7f40fea9/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FJP-7f40fea9%2FShared%20Documents%2F00_%E6%83%85%E5%A0%B1%E5%85%B1%E6%9C%89%2F01_%E5%85%B1%E9%80%9A%E6%A5%AD%E5%8B%99%E5%9F%BA%E7%9B%A4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_%E6%A7%8B%E7%AF%89%2F80_%E7%A7%BB%E8%A1%8C&viewid=805d5f17-dc54-4fab-90b7-32e857413441"
+            }, {
+               "date_added": "13396344942921734",
+               "date_last_used": "0",
+               "guid": "59d9f35f-7f51-46a9-ba0a-8110965f7a40",
+               "id": "24",
+               "name": "全体移行実施計画",
+               "type": "url",
+               "url": "https://fujitsu.sharepoint.com/sites/jp-FujitsuDP-61866/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=Jgl0lk&CID=063742c8%2D552a%2D498d%2D9b6f%2Dae0d8d36bf53&FolderCTID=0x0120001D77E966BE13F2409D62CAACD5E809B2&id=%2Fsites%2Fjp%2DFujitsuDP%2D61866%2FShared%20Documents%2FFUJITSU%2DCONFIDENTIAL%28ACCESS%5FLIMITED%29%2F020%5FCustomer%5FSharing%EF%BC%8F%E9%A1%A7%E5%AE%A2%E5%85%B1%E6%9C%89%2F200%5F%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86%2F01%5F%E8%B3%87%E6%96%99%E9%80%81%E4%BB%98%2F20250630%5F%E5%85%A8%E4%BD%93%E7%A7%BB%E8%A1%8C%E5%AE%9F%E6%96%BD%E8%A8%88%E7%94%BB%E6%9B%B81%2E0%E7%89%88"
+            }, {
+               "date_added": "13396355915317663",
+               "date_last_used": "0",
+               "guid": "3dbf9b3a-901d-47d5-8596-fd97088d9dcf",
+               "id": "25",
+               "name": "380_移行",
+               "type": "url",
+               "url": "https://fujitsu.sharepoint.com/sites/jp-FujitsuDP-61866/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fjp%2DFujitsuDP%2D61866%2FShared%20Documents%2FFUJITSU%2DCONFIDENTIAL%28ACCESS%5FLIMITED%29%2F020%5FCustomer%5FSharing%EF%BC%8F%E9%A1%A7%E5%AE%A2%E5%85%B1%E6%9C%89%2F300%5F%E5%9F%BA%E7%9B%A4%E6%A7%8B%E7%AF%89%E4%BA%8B%E6%A5%AD%E8%80%85%E9%96%A2%E9%80%A3%2F380%5F%E7%A7%BB%E8%A1%8C&viewid=5c611850%2Ded39%2D48a4%2Da282%2Dce790ce514c4"
+            } ],
+            "date_added": "13396408642724131",
+            "date_last_used": "0",
+            "date_modified": "13396579624846741",
+            "guid": "fcf63553-511f-4c8c-9c32-74b9a91be104",
+            "id": "28",
+            "name": "ショートカット",
+            "type": "folder"
+         } ],
+         "date_added": "13391827905443232",
+         "date_last_used": "0",
+         "date_modified": "13397106438634411",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "ブックマーク バー",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13391827905443235",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "その他のブックマーク",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13391827905443238",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "モバイルのブックマーク",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

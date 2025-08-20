@@ -1,0 +1,36 @@
+===== START EXPORT 2025/08/12 21:03:50.31 (TS=20250812_210350) =====
+[STEP] ●00_辞書登録情報エクスポート 開始● 
+[INFO] 一時保管フォルダは既に存在: C:\Users\fj3683hn\Documents\20250808_辞書登録情報とお気に入り情報のエクスポートインポートバッチ作成\profileHandoverKit\data\IME_Dictionary
+[INFO] 辞書登録情報ファイルをコピー
+        1 個のファイルをコピーしました。
+[SUCS] 辞書登録情報ファイルのコピー完了
+[INFO] 保存先: C:\Users\fj3683hn\Documents\20250808_辞書登録情報とお気に入り情報のエクスポートインポートバッチ作成\profileHandoverKit\data\IME_Dictionary\imjp15cu.dic
+[SUCS] 辞書登録情報ファイルのエクスポートが完了しました。
+[STEP] ●00_辞書登録情報エクスポート 終了● 
+[STEP] ●10_お気に入り情報エクスポート 開始● 
+[INFO] ブラウザを自動終了しています...
+[INFO] エクスポート先フォルダを作成しています...
+[INFO] Chromeのお気に入り情報をバックアップ中...
+[INFO] Chromeお気に入り情報をコピー: Bookmarks
+        1 個のファイルをコピーしました。
+[SUCS] Chromeお気に入り情報コピー完了: Bookmarks
+[INFO] Chromeお気に入り情報をコピー: Bookmarks.bak
+        1 個のファイルをコピーしました。
+[SUCS] Chromeお気に入り情報コピー完了: Bookmarks.bak
+[INFO] Chromeお気に入り情報をコピー: BookmarkMergedSurfaceOrdering
+        1 個のファイルをコピーしました。
+[SUCS] Chromeお気に入り情報コピー完了: BookmarkMergedSurfaceOrdering
+[INFO] Edgeのお気に入り情報をバックアップ中...
+[INFO] Edgeお気に入り情報をコピー: Bookmarks
+        1 個のファイルをコピーしました。
+[SUCS] Edgeお気に入り情報のコピー完了: Bookmarks
+[INFO] Edgeお気に入り情報をコピー: Bookmarks.bak
+        1 個のファイルをコピーしました。
+[SUCS] Edgeお気に入り情報のコピー完了: Bookmarks.bak
+[INFO] Edgeお気に入り情報をコピー: BookmarkMergedSurfaceOrdering
+        1 個のファイルをコピーしました。
+[SUCS] Edgeお気に入り情報のコピー完了: BookmarkMergedSurfaceOrdering
+[INFO] 保存先: C:\Users\fj3683hn\Documents\20250808_辞書登録情報とお気に入り情報のエクスポートインポートバッチ作成\profileHandoverKit\data\Bookmarks
+[SUCS] お気に入り情報のエクスポートが完了しました。
+[STEP] ●10_お気に入り情報エクスポート 終了● 
+===== END EXPORT 2025/08/12 21:03:50.75 =====
