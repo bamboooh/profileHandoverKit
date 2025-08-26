@@ -24,7 +24,13 @@ REM エクスポートディレクトリを作成
 for %%D in ("%ChromeBackup%" "%EdgeBackup%") do (
     if not exist "%%~D" (
         mkdir "%%~D"
-        echo [CREATE] %%~D
+        if !errorlevel! == 0 (
+            echo [CREATE] %%~D
+        ) else (
+            echo [EROR] フォルダ作成失敗: %%~D エラーコード: !errorlevel!
+        )
+    ) else (
+        echo [INFO] 既存フォルダ検出: %%~D
     )
 )
 
@@ -34,7 +40,11 @@ for %%F in (%FILES%) do (
     if exist "%ChromeSrc%\%%F" (
         echo [INFO] Chromeお気に入り情報をコピー: %%F
         copy /Y "%ChromeSrc%\%%F" "%ChromeBackup%\%%F"
-        echo [SUCS] Chromeお気に入り情報コピー完了: %%F
+        if !errorlevel! == 0 (
+            echo [SUCS] Chromeコピー成功: %%F
+        ) else (
+            echo [EROR] Chromeコピー失敗: %%F エラーコード: !errorlevel!
+        )
     ) else (
         echo [EROR] Chrome: %%F（存在せず）
     )
@@ -46,13 +56,17 @@ for %%F in (%FILES%) do (
     if exist "%EdgeSrc%\%%F" (
         echo [INFO] Edgeお気に入り情報をコピー: %%F
         copy /Y "%EdgeSrc%\%%F" "%EdgeBackup%\%%F"
-        echo [SUCS] Edgeお気に入り情報のコピー完了: %%F
+        if !errorlevel! == 0 (
+            echo [SUCS] Edgeコピー成功: %%F
+        ) else (
+            echo [EROR] Edgeコピー失敗: %%F エラーコード: !errorlevel!
+        )
     ) else (
         echo [EROR] Edge: %%F（存在せず）
     )
 )
 
 echo [INFO] 保存先: %BackupRoot%
-echo [SUCS] お気に入り情報のエクスポートが完了しました。
+echo [INFO] お気に入り情報のエクスポートが完了しました。
 
 endlocal
